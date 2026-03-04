@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\employeemaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\employeemaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\countrymaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\countrymaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\controllers\\countrymastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\controllers\\countrymastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\data1\\collagewebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\data1\\collagewebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\models\\countrymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\models\\countrymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\countrymaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\countrymaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\countrymaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\countrymaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\employeemaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\employeemaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\employeemaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\employeemaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\employeemaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\employeemaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\models\\employeesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\models\\employeesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|c:\\users\\admin\\source\\repos\\collegemanagmentsystem\\college webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF9C1C7-6649-4642-B52A-2361B6A8C58E}|College WebApplication\\CollegeWebApplication.csproj|solutionrelative:college webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Program.cs",
+              "RelativeToolTip": "College WebApplication\\Program.cs",
+              "ViewState": "AgIAABcAAADAzMzMzMwnwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:07:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "College WebApplication\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AgIAACQAAACA/v///38ZwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:05:40.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollageWebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Data1\\CollageWebDbContext.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Data1\\CollageWebDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Data1\\CollageWebDbContext.cs",
+              "RelativeToolTip": "College WebApplication\\Data1\\CollageWebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:24:20.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "College WebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\appsettings.json",
+              "RelativeToolTip": "College WebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T10:42:48.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\EmployeeMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Edit.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\EmployeeMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:34:20.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T10:59:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T10:33:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAgMzMzMzMbwDkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:32:00.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\CountryMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Index.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\CountryMaster\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T07:27:43.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\CountryMasterController.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Controllers\\CountryMasterController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\CountryMasterController.cs",
+              "RelativeToolTip": "College WebApplication\\Controllers\\CountryMasterController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIApwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:03:57.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Models\\CountryMaster.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Models\\CountryMaster.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Models\\CountryMaster.cs",
+              "RelativeToolTip": "College WebApplication\\Models\\CountryMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:15:39.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\CountryMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Create.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\CountryMaster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T07:26:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\CountryMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\CountryMaster\\Edit.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\CountryMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T07:29:04.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\EmployeeMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Create.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\EmployeeMaster\\Create.cshtml",
+              "ViewState": "AgIAAD4AAACgmZmZmVkqwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:34:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\EmployeeMaster\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Delete.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\EmployeeMaster\\Delete.cshtml",
+              "ViewState": "AgIAAD4AAACAMzMzMzMrwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:34:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\EmployeeMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\EmployeeMaster\\Index.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\EmployeeMaster\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:34:26.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Models\\EmployeesMaster.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Models\\EmployeesMaster.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Models\\EmployeesMaster.cs",
+              "RelativeToolTip": "College WebApplication\\Models\\EmployeesMaster.cs",
+              "ViewState": "AgIAACsAAAAA1czMzEwYwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:20:36.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:13:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAEMAAAAAaGZmZmYUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:47:26.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:13:08.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "College WebApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "College WebApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:06:05.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "College WebApplication\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CollegeManagmentSystem\\College WebApplication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "College WebApplication\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T10:15:30.952Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
